@@ -1,0 +1,7 @@
+build/
+__pycache__/
+venv/
+dist/
+Log
+icon.png
+.bak
